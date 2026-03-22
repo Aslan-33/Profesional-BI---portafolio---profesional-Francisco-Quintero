@@ -1,2 +1,2 @@
-# Profesional-BI---portafolio---profesional-Francisco-Quintero
+Portafolio_BI
 portafolio personal de Specialist BI
